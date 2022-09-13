@@ -1,0 +1,65 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "51bcf880-7374-4672-9fe7-b84a89064582",
+  "Name": "Module1",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.Module1.Client",
+  "ClientBaseAssemblyName": "starkov.Module1.ClientBase",
+  "ClientBaseNamespace": "starkov.Module1.ClientBase",
+  "ClientNamespace": "starkov.Module1.Client",
+  "Code": "Module1",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "0dcf8309-f3a8-4cd7-ae88-b670866f00f1",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "5aefe570-0df3-4a1b-bf4e-e545052ba632",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "99bb876f-d937-4d60-ad11-9840684482a1",
+      "BackgroundPosition": "Stretch"
+    },
+    "Tabs": []
+  },
+  "Dependencies": [
+    {
+      "Id": "13e8b787-7077-4240-89c6-75774e584e2d",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "c3bde365-64be-48b6-ab4c-f710cd5265c6"
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.Module1",
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.Module1",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "starkov.Module1.Server",
+  "ServerNamespace": "starkov.Module1.Server",
+  "SharedAssemblyName": "starkov.Module1.Shared",
+  "SharedNamespace": "starkov.Module1.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
