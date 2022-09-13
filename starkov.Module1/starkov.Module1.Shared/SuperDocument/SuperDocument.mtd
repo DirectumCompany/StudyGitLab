@@ -30,6 +30,14 @@
       "Overridden": [
         "EntityGuid"
       ]
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "2a9e12a3-cb5f-4a8f-95f0-b7d4f5bd784b",
+      "Name": "Property",
+      "Code": "Property",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "56cbe741-880f-4e6f-9567-343d08494b59"
     }
   ],
   "PublicStructures": [],
