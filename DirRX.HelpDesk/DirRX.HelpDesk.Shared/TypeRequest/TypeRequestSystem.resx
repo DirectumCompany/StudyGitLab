@@ -70,4 +70,7 @@
   <data name="Enum_Type_wish" xml:space="preserve">
     <value>wish</value>
   </data>
+  <data name="Property_Code" xml:space="preserve">
+    <value>Код</value>
+  </data>
 </root>
