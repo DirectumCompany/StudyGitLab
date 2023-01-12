@@ -67,4 +67,13 @@
   <data name="CollectionDisplayName" xml:space="preserve">
     <value>Addendum Requests</value>
   </data>
+  <data name="Property_Employee" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="Resource_a4234aaf007d40fd9b3fee5fff8313d0" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_a4234aaf007d40fd9b3fee5fff8313d0_EmptyText" xml:space="preserve">
+    <value />
+  </data>
 </root>
